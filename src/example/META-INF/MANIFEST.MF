@@ -1,0 +1,10 @@
+
+Manifest-Version: 1.0
+Created-By: hand
+
+Main-Class: com.mosaic.djar.M
+Application-Main: com.world.HelloMain
+
+Dependencies: org.apache.commons:commons-lang:2.6 org.apache.commons:commons-io:2.6
+Resolved-Artefacts: http://repo1.maven.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.jar
+        http://repo1.maven.org/maven2/commons-io/commons-io/2.6/commons-io-2.6.jar
